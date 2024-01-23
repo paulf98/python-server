@@ -1,0 +1,32 @@
+{
+    "items": [
+      {
+        "id": "124",
+        "company_name": "Stark Industries",
+        "num_employees": 5215,
+        "country": "USA",
+        "location": [49.1996961, 7.6087847] 
+      },
+      {
+        "id": "125",
+        "company_name": "Acme Corp",
+        "num_employees": 1002,
+        "country": "France",
+        "location": [49.1996961, 7.6087847] 
+      },
+      {
+        "id": "127",
+        "company_name": "Stark Corp",
+        "num_employees": 1031,
+        "country": "USA",
+        "location": [49.1711784, 7.6545316]
+      },
+      {
+        "id": "126",
+        "company_name": "Doofenshmirtz Inc",
+        "num_employees": 2,
+        "country": "Tri-State Area",
+        "location": [49.1711784, 7.6545316] 
+      }
+    ]
+}
